@@ -1,13 +1,4 @@
-# Image Classification MLOps on Amazon SageMaker
-
-> [!WARNING]
-> **Disclaimer.** This is sample code for demonstration and learning. It is
-> not a cleared clinical product, has not been validated for diagnostic use,
-> and must not be used to make medical decisions. It deploys real, billable AWS
-> resources (an always-on SageMaker real-time endpoint, training and Processing
-> jobs, AWS WAF and more) that cost money for as long as they exist. Review
-> [Costs](#costs), [Cleanup](#cleanup) and [SECURITY.md](SECURITY.md) before
-> you deploy, and deploy only into a non-production account you control.
+# SageMaker Image Classification MLOps on Amazon 
 
 ## Overview
 
